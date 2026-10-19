@@ -1,16 +1,24 @@
-# React + Vite
+# 💅 Glow Nail Studio
+> *Where elegance meets artistry.* A modern, aesthetic web application and booking platform designed for a premium nail art and care experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+---
 
-Currently, two official plugins are available:
+## ✨ About The Project
+**Glow Nail Studio** is a sleek, user-friendly digital storefront and service platform built to showcase luxury nail designs, provide seamless appointment booking, and offer clients a relaxing, high-end studio vibe right from their screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎨 Key Features
+* **Service Showcase:** Beautiful galleries displaying manicures, extensions, gel art, and seasonal specials.
+* **Interactive Booking:** Simple scheduling flow for clients to select their preferred treatments, artists, and time slots.
+* **Lookbook & Trends:** A curated space highlighting the latest nail art trends, colors, and client transformations.
+* **Responsive Design:** Fully optimized for mobile phones, tablets, and desktop screens so clients can book on the go.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
+* **Frontend:** Next.js / React, HTML5, CSS3 / Tailwind CSS (for that clean, aesthetic UI)
+* **Styling & Icons:** Lucide Icons, Custom CSS animations for a smooth Glow effect
+* **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
